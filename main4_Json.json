@@ -1,0 +1,22 @@
+{
+    "müzik_koleksiyonü": [
+        {
+            "şarkı": "Bohemian Rhapsody",
+            "sanatçı": "Queen",
+            "tür": "Rock",
+            "yıl": 1975
+        },
+        {
+            "şarkı": "Imagine",
+            "sanatçı": "John Lennon",
+            "tür": "Rock",
+            "yıl": 1971
+        },
+        {
+            "şarkı": "Billie Jean",
+            "sanatçı": "Michael Jackson",
+            "tür": "Pop",
+            "yıl": 1983
+        }
+    ]
+}
